@@ -1,5 +1,6 @@
 - 👋 Hi, I’m OkbaDz
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning coding in godot
+- and i want someone to help me in coding cuz im a begginer
 - 📫 How to reach me :
 - insta: okba._dz
